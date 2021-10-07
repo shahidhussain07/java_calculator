@@ -1,3 +1,6 @@
+//command line calculator using conditionals
+//this program only takes integer values (as inputs)
+
 import java.util.Scanner;
 
 public class Calculator {
