@@ -33,7 +33,7 @@ public class Calculator {
                 if (op == '%') {
                     ans = num1 % num2;
                 }
-            } else if ( op == 'x' || op == 'X'){    //To exit() the program write 'x' or 'X' in operator input
+            } else if ( op == 'x' || op == 'X'){    //To exit() the program write 'x' or 'X' as  input in opertaor
                 break;
             }else {
                 System.out.println("Invalid operation");
